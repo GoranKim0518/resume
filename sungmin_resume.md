@@ -22,7 +22,7 @@
 - 주요 배운 것들 . . .
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="font-weight: bold; font-size: 1.21em;">Georgia Institute of Technology | 교환학생</span>
+    <span style="font-weight: bold; font-size: 1.21em;">Georgia Institute of Technology | Exchange Student</span>
     <span style="font-weight: bold; font-size: 1.21em;">'26. 08. - '27. 05.</span>
 </div>
 
