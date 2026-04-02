@@ -6,7 +6,7 @@
 
 > **"퍼포먼스로 사용자에게, 협업으로 동료에게 신뢰를 주는 프론트엔드 개발자, 이성민입니다."**
 >
-> Email: [sungmin051830@gmail.com](matilto:sungmin051830@gmail.com)
+> Email: [sungmin051830@gmail.com](matilto:sungmin051830@gmail.com)  
 > Github: [https://github.com/GoranKim0518](https://github.com/GoranKim0518)
 
 # 교육
